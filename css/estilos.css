@@ -8,8 +8,9 @@
   
   
   body {
-    background-image: url("../imagens/banner_africa.jpg");
+  
     align-items: center;
+    background-image: url("../imagens/banner_africa.jpg");
     background: linear-gradient(45deg, #a7cfdf 0%,#23538a 100%);
     display: flex;
     justify-content: center;
